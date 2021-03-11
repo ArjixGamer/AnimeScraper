@@ -1,0 +1,3 @@
+git+https://github.com/anime-dl/anime-downloader
+Flask
+Flask-RESTful
